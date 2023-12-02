@@ -1,0 +1,39 @@
+body{
+     background-color: bisque;
+}
+h1{
+    text-align: center;
+    color: brown;
+     font-size: 75px;
+     font-family: 'Dancing Script', cursive;
+
+}
+h2{
+    text-align: center;
+    color: #8A3324;
+    font-size: 65px;
+    font-family: 'Dancing Script', cursive;
+
+}
+h3{
+    text-align: center;
+    color: #8A3324;
+    font-size: 45px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    width: 150px;
+}
+
+figcaption {
+    background-color: black;
+    color: white;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+  }
